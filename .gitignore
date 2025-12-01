@@ -1,0 +1,19 @@
+# Arduino
+*.hex
+*.elf
+*.bin
+*.map
+
+# Build directories
+build/
+.build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
